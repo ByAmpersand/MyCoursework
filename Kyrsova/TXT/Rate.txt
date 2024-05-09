@@ -1,0 +1,2 @@
+04/24/2023;18:13:00;Aluminum;Natural Gas Distribution;202;Euro;400
+11/28/2023;19:37:00;Rubber;Industrial Machinery/Components;230;Euro;40

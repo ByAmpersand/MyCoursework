@@ -1,0 +1,70 @@
+D:\source\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.exe
+D:\source\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.deps.json
+D:\source\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.runtimeconfig.json
+D:\source\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.dll
+D:\source\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.pdb
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.csproj.AssemblyReference.cache
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1_MarkupCompile.cache
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1_MarkupCompile.lref
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.g.resources
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.AssemblyInfoInputs.cache
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.AssemblyInfo.cs
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.csproj.CoreCompileInputs.cache
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.dll
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\refint\Kyrsova_v1.dll
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.pdb
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.genruntimeconfig.cache
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\ref\Kyrsova_v1.dll
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Functions.g.cs
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Functions.baml
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\WindowGaps.g.cs
+D:\source\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\WindowGaps.baml
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.exe
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.deps.json
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.runtimeconfig.json
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.dll
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.pdb
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Functions.g.cs
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\WindowGaps.g.cs
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1_MarkupCompile.cache
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1_MarkupCompile.lref
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Functions.baml
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\WindowGaps.baml
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.g.resources
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.AssemblyInfoInputs.cache
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.AssemblyInfo.cs
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.dll
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\refint\Kyrsova_v1.dll
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.pdb
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.genruntimeconfig.cache
+C:\Users\Віктор\Downloads\Telegram Desktop\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\ref\Kyrsova_v1.dll
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.exe
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.deps.json
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.runtimeconfig.json
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.dll
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\bin\Debug\net6.0-windows\Kyrsova_v1.pdb
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Functions.g.cs
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\WindowGaps.g.cs
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1_MarkupCompile.cache
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1_MarkupCompile.lref
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Functions.baml
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\WindowGaps.baml
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.g.resources
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.AssemblyInfoInputs.cache
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.AssemblyInfo.cs
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.csproj.CoreCompileInputs.cache
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.dll
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\refint\Kyrsova_v1.dll
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.pdb
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\Kyrsova_v1.genruntimeconfig.cache
+D:\NU_LP\Kyrsova\Kyrsova\Kyrsova_v1\obj\Debug\net6.0-windows\ref\Kyrsova_v1.dll

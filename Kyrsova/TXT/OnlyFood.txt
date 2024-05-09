@@ -1,0 +1,4 @@
+05/06/2023; 18:00:00;  Food;  Eggs; 13; Hryvnia; 1
+05/06/2023; 18:30:00;  Food;  Sausage; 19; Hryvnia; 1
+05/06/2023; 18:45:00;  Food;  Cucumber; 1; Dollar; 37,5
+05/06/2023; 18:48:12;  Food;  Potato; 1; Dollar; 37,5

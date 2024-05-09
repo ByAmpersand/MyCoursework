@@ -1,0 +1,27 @@
+11/2/2023, 00:21:00,   Plastic,   n/a, 124,  Krone, 1,5
+11/28/2023, 19:37:00,   Rubber,   Industrial Machinery/Components, 230,  Euro, 40
+3/12/2023, 23:14:00,   Glass,   Motor Vehicles, 163,  Dollar, 37,5
+4/24/2023, 18:13:00,   Aluminum,   Natural Gas Distribution, 202,  Euro, 40
+3/6/2023, 02:24:00,   Stone,   Industrial Machinery/Components, 301,  Hryvnia, 1
+5/6/2023, 18:00:00,   Glass,   Homebuilding, 492,  Dollar, 37,5
+6/23/2023, 05:43:00,   Vinyl,   Power Generation, 21,  Euro, 40
+12/28/2022, 23:34:00,   Vinyl,   Real Estate Investment Trusts, 303,  Euro, 40
+10/8/2023, 05:12:00,   Wood,   Diversified Commercial Services, 448,  Dollar, 37,5
+8/21/2023, 19:46:00,   Granite,   Computer Software: Prepackaged Software, 196,  Zloty, 9
+7/29/2023, 22:48:00,   Glass,   Oil & Gas Production, 151,  Rupiah, 0,4000000059604645
+9/23/2023, 21:22:00,   Glass,   Oilfield Services/Equipment, 500,  Euro, 40
+4/3/2023, 08:23:00,   Aluminum,   Major Pharmaceuticals, 173,  Shekel, 7
+4/17/2023, 11:47:00,   Vinyl,   Computer Software: Prepackaged Software, 209,  Dollar, 37,5
+2/6/2023, 15:05:00,   Glass,   Motor Vehicles, 500,  Euro, 40
+4/4/2023, 04:43:00,   Steel,   Major Chemicals, 117,  Rupiah, 0,4000000059604645
+8/22/2023, 05:36:00,   Vinyl,   Major Banks, 335,  Shekel, 7
+9/8/2023, 04:14:00,   Stone,   Real Estate Investment Trusts, 12,  Dollar, 37,5
+10/21/2023, 06:54:00,   Wood,   Real Estate Investment Trusts, 475,  Rupiah, 0,4000000059604645
+3/23/2023, 01:59:00,   Granite,   n/a, 425,  Dollar, 37,5
+9/19/2023, 22:37:00,   Granite,   n/a, 469,  Hryvnia, 1
+10/2/2023, 03:17:00,   Aluminum,   n/a, 252,  Hryvnia, 1
+8/11/2023, 06:49:00,   Steel,   n/a, 213,  Dollar, 37,5
+3/13/2023, 15:32:00,   Brass,   n/a, 364,  Rupiah, 0,4000000059604645
+7/3/2023, 08:42:00,   Plastic,   n/a, 426,  Euro, 40
+6/7/2023, 19:27:00,   Glass,   Industrial Machinery/Components, 333,  Zloty, 9
+10/6/2023, 15:10:00,   Granite,   Specialty Foods, 358,  Krone, 1,5
